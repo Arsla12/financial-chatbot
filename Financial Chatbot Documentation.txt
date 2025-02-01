@@ -1,0 +1,18 @@
+Financial Chatbot Documentation
+
+## Purpose
+This chatbot can answer predefined financial queries based on data from an Excel file. It allows users to ask about total revenue, net income, total assets, etc., for Microsoft, Tesla, and Apple for the years 2022, 2023, and 2024.
+
+## Predefined Queries
+1. What is the total revenue?
+2. How much is the net income?
+3. What are the total assets?
+
+## Usage
+1. The user will be prompted to select a company (Microsoft, Tesla, or Apple).
+2. The user will then specify the year (2022, 2023, or 2024).
+3. The chatbot will respond with the relevant financial data or an apology if data is unavailable.
+
+## Limitations
+- The chatbot only responds to specific predefined queries.
+- It requires an Excel file with financial data from the companies for the years 2022-2024.
